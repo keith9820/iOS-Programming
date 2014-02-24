@@ -1,3 +1,4 @@
+
 #iOS Programming INFO1-CE9236
 NYU School of Continuing and Professional Studies
 
@@ -54,8 +55,7 @@ Concerning software development, it is common practice among developers to share
 
 
 1.  Course introduction, Objective-C
-2.  Maps and CoreLocation2. 
-3.  Views
+2.  Views
 4.  View Controllers, Notification
 5.  Tables, View Navigation, Storyboards
 6.  Using the Camera, Modal Views
@@ -64,153 +64,94 @@ Concerning software development, it is common practice among developers to share
 9.  Touch Events and Gestures
 10. Web Services, Master-Detail Communications, iCloud
 
-#### Lesson 1 (Feb. 26)
 
-Course introduction
-Introduction to the course
-What you will learn
-Prerequisite skills
-Setting up your environment
-Introduction to iOS development
-Cocoa Touch Framework
-The Xcode IDE
-C language highlights 
-Overview of Objective-C
+#### Lesson 1 (Feb. 26)
 
-Objective-C
-Chapters 1-3.
-No lab during class, ensure prerequisites are met.
+    Course Introduction
+    
+    Chapters 1-3
+    
+    No lab during this class, ensure prerequisites are met
+    Complete the Quiz application from chapter 1
 
-Complete the Quiz application from chapter 1.
-
-
-
+*  Course introduction
+*  Introduction to iOS development, the Cocoa Touch Framework, and the Xcode IDE
+*  C language highlights
+*  Overview of Objective-C
 
 
 #### Lesson 2 (Mar. 05)
 
-Delegation and Core Location
-Chapter 4.
-
-Submit the WhereAmI project including the silver challenge from page 97 (5 points).
-
-MapKit and Text Input
-Chapter 5.
-
-Submit the extended WhereAmI project including BRNMapPoint + the silver and gold challenges from page 120 (5 points).
+    Views
+    
+    Chapters 4-5
 
 
-#### Lesson 3 (Mar. 12)
 
-Subclassing UIView and UIScrollView
-Chapter 6.
+#### Lesson 3 (Mar. 12)
 
-Submit the Hypnosister project + the following enhancement:
-	Make the circles appear in alternate colors of the rainbow (5 points).
-
-Submit the Hypnosister project using a UIScrollView view (5 points).
-
-
+    View Controllers and delegation
+    
+    Chapters 6-7
 
 
 
 #### Lesson 4 (Mar. 19)
 
-View Controllers
-Chapters 7.
-
-Submit the HypnoTime project + the bronze challenge from page 169 (5 points).
-
-
-Notification and Rotation
-Chapters 8.
-
-Submit HeavyView project + the gold challenge from page 185 (5 points).
+    UITableView and UITableViewController
+    
+    Chapters 8-9
 
 
-#### Lesson 5 (Mar. 26)
 
-UITableView and UITableViewController
-Chapter 9.
 
-Submit the Homepwner project + the bronze and silver challenges from page 205 (5 points).
+#### Lesson 5 (Mar. 26)
 
-Editing UITableView
-Chapter 10.
-
-Submit the extended Homepwner project including all challenges from page 217 (5 points).
-
+    AutoLayout
+    
+    Chapters 15-16
 
 
 
 
 #### Lesson 6 (Apr. 02)
 
-UINavigationController
-Chapter 11.
-
-Submit the Homepwner project (5 points).
-
-Camera
-Chapter 12.
-
-Submit the Homepwner project + the bronze and silver challenges from page 257 (5 points).
-
-#### Lesson 7 (Apr. 09)
-
-UIPopoverController and Model View Controllers
-Chapter 13.
-
-Submit the Homepwner project + the silver and gold challenges from page 274 (5 points).
-
-Saving and Loading Data
-Chapter 14.
-
-Submit the Homepwner project (5 points).
-
-Subclassing UITableViewCell
-Chapter 15.
+    Autorotation, Popover Controllers, and Modal View Controllers
+    Saving and loading application state
+    
+    Chapters 17-18
 
 
 
+
+#### Lesson 7 (Apr. 09)
+
+    Subclassing UITableViewCell
+    Dynamic Type
+    
+    Chapters 19-20
 
 
 
 #### Lesson 8 (Apr.16)
-Core Data
 
-Chapter 16.
-
-Submit the Homepwner project (10 points).
-
-
-#### Lesson 9 (Apr. 23)
-
-NSUserDefaults
-Chapter 18.
-
-Touch Events and UIResponder
-Chapter 19.
-
-UIGestureRecognizer and UIMenuController
-Chapter 20.
-
-UIStoryBoard
-Chapter 24.
-
-Submit the Homepwner project (5 points).
+    Web Services and the UIWebView
+    IUSplitViewController
+    
+    Chapters 21-22
 
 
+
+
+#### Lesson 9 (Apr. 23)
+
+    Core Data
+
+    Chapters 23-24
 
 
 #### Lesson 10 (Apr. 30)
 
-Web Services and UIWebView
-Chapter 25
-
-UISplitViewController
-Chapter 26.
-
-iCloud
-Chapter 30.
-
+    NSUserDefaults
+    
+    Chapter 26
