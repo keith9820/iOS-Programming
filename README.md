@@ -1,11 +1,10 @@
-
 #iOS Programming INFO1-CE9236
 NYU School of Continuing and Professional Studies
 
     Course Title:		iPad and iPhone App Development
     Course Number:		INFO1-CE9236003 
-    Instructor:		Keith Harris
-    Email:  		kh83@nyu.edu 
+    Instructor:			Keith Harris
+    Email:  			kh83@nyu.edu 
 
 ### Course Description 
 This course will teach students how to create applications for the Apple iPad, iPhone, and iPod Touch using the iPhone operating system iOS. Learn the Objective-C language, write apps in the Macintosh Xcode development environment using Apple's Cocoa Touch API of classes, protocols, and objects. Build the visual interface of the app with touch-sensitive windows and views containing common UI elements such as buttons, sliders, and tables. Distinguish between taps and swipes, responding to them with animations. Explore the roles played by objects as delegates, targets, controllers, and data sources integrated into the Model-View-Controller design pattern.
