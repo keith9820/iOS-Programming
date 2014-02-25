@@ -56,13 +56,14 @@ Concerning software development, it is common practice among developers to share
 
 1.  Course introduction, Objective-C
 2.  Views
-4.  View Controllers, Notification
-5.  Tables
-6.  Using the Camera, Modal Views
-7.  Saving and Loading Data
-8.  CoreData
-9.  Touch Events and Gestures
-10. Web Services, Master-Detail Communications, iCloud
+3.  View Controllers and delegation
+4.  UITableView and UITableViewController
+5.  UINavigationController and the camera
+6.  Autolayout
+7.  Autorotation, UIPopoverController and modal view controllers
+8.  Subclassing UITableViewCell and dynamic type
+9.  Web Services, the UIWebView, and UISplitViewController
+10. Core Data
 
 
 #### Lesson 1 (Feb. 26)
@@ -143,8 +144,7 @@ Concerning software development, it is common practice among developers to share
 
 #### Lesson 9 (Apr.23)
 
-    Web Services and the UIWebView
-    IUSplitViewController
+    Web Services, UIWebView, and UISplitViewController
     
     Chapters 21-22
 
