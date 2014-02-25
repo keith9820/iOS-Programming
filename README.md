@@ -44,20 +44,20 @@ The current syllabus lists many topics and it is possible that more will be cove
 Programming assignments are due by midnight of the due date.  
 Projects will be submitted to the course management system unless otherwise indicated.
 If you have any class-related questions, send an email to the instructor..
-### Statement on Plagiarism
+### Statement on Plagiarism
 
 New York University takes plagiarism very seriously and regards it as a form of fraud. The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own. More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing. Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete. Even where there is not a conscious
 intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism. Penalties for plagiarism range from failure for a paper or course to dismissal from the University.”
 
 Concerning software development, it is common practice among developers to share code and many useful code snippets can be found on the Internet.  In this course, students are encouraged to research problems online and are free to use found code (so long as the copyright owner has published no objection), provided the code is typed in by the student and not pasted from the clipboard.  The reason against pasting from the clipboard is that the act of typing furthers the learning process and affords more code writing opportunities. 
-
+
 ### Course Content
 
 
 1.  Course introduction, Objective-C
 2.  Views
 4.  View Controllers, Notification
-5.  Tables, View Navigation, Storyboards
+5.  Tables
 6.  Using the Camera, Modal Views
 7.  Saving and Loading Data
 8.  CoreData
@@ -107,14 +107,22 @@ Concerning software development, it is common practice among developers to share
 
 #### Lesson 5 (Mar. 26)
 
-    AutoLayout
+    UINavigationController and camera
     
-    Chapters 15-16
+    Chapters 10-11
 
 
 
 
 #### Lesson 6 (Apr. 02)
+
+    Autolayout
+    
+    Chapters 15-16
+
+
+
+#### Lesson 7 (Apr. 09)
 
     Autorotation, Popover Controllers, and Modal View Controllers
     Saving and loading application state
@@ -124,7 +132,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 7 (Apr. 09)
+#### Lesson 8 (Apr. 16)
 
     Subclassing UITableViewCell
     Dynamic Type
@@ -133,7 +141,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 8 (Apr.16)
+#### Lesson 9 (Apr.23)
 
     Web Services and the UIWebView
     IUSplitViewController
@@ -143,15 +151,8 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 9 (Apr. 23)
+#### Lesson 10 (Apr. 23)
 
     Core Data
 
     Chapters 23-24
-
-
-#### Lesson 10 (Apr. 30)
-
-    NSUserDefaults
-    
-    Chapter 26
