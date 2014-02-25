@@ -13,7 +13,7 @@ This course will teach students how to create applications for the Apple iPad, i
 
 ### Prerequisite Skills
 
-Students must have experience programming in any language, preferably ann object-oriented one.  Students are expected to understand programming constructs such as operators, loops, conditional statements, and functions as implemented in languages such as C, Java or C++. 
+Students must have experience programming in any language, preferably an object-oriented one.  Students are expected to understand programming constructs such as operators, loops, conditional statements, and functions as implemented in languages such as C, Java or C++. 
 
 ### Grading
 
@@ -38,11 +38,13 @@ If given, reading assignments will be from the textbook.  The reading assignment
 
 ### Syllabus Updates
 
-The current syllabus lists many topics and it is possible that more will be covered in class. Syllabus revisions may be made after gauging the skill level of students.  Throughout the term, we may decide to discuss additional relevant topics for which there is significant student interest.
+The current syllabus lists many topics and it is possible that more or fewer will be covered in class. Syllabus revisions may be made after gauging the skill level of students.  Throughout the term, we may decide to discuss additional relevant topics for which there is significant student interest.
 
 ### Assignments
 Programming assignments are due by midnight of the due date.  
+
 Projects will be submitted to the course management system unless otherwise indicated.
+
 If you have any class-related questions, send an email to the instructor.
 
 ### Statement on Plagiarism
