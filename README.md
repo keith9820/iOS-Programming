@@ -50,8 +50,14 @@ If you have any class-related questions, send an email to the instructor.
 New York University takes plagiarism very seriously and regards it as a form of fraud. The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: 
 
 ````
-"Plagiarism is presenting someone else's work as though it were one's own. More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing. Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete. Even where there is not a conscious
-intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism. Penalties for plagiarism range from failure for a paper or course to dismissal from the University.”
+"Plagiarism is presenting someone else's work as though it were one's own. 
+More specifically, plagiarism is to present as one's own words quoted without quotation marks 
+from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, 
+organized, and reported by someone else, orally and/or in writing. Since plagiarism is a matter of 
+fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate 
+and complete. Even where there is not a conscious intention to deceive, the failure to make appropriate 
+acknowledgement constitutes plagiarism. Penalties for plagiarism range from failure for a paper or 
+course to dismissal from the University.”
 ````
 
 Concerning software development, it is common practice among developers to share code and many useful code snippets can be found on the Internet.  In this course, students are encouraged to research problems online and are free to use found code (so long as the copyright owner has published no objection), provided the code is typed in by the student and not pasted from the clipboard.  The reason against pasting from the clipboard is that the act of typing furthers the learning process and affords more code writing opportunities. 
