@@ -18,12 +18,14 @@ This course will teach students how to create applications for the Apple iPad, i
 
 ### Prerequisite Skills
 
-Students must have experience programming in any language, preferably an object-oriented one.  Students are expected to understand programming constructs such as operators, loops, conditional statements, and functions as implemented in languages such as C, Java or C++. 
+Students should have experience programming in any object-oriented language.  Students are expected to understand programming constructs such as operators, loops, conditional statements, and functions as implemented in languages such as C#, Java or C++. 
 
 ### Grading
 
 No tests will be given, the final grade will be determined by student attendance and the correctness of submitted homework assignments.
+
 20% - Attendance
+
 80% - Assignments
 
 ### Prerequisite Resources
@@ -39,7 +41,7 @@ iOS Programming: The Big Nerd Ranch Guide 4th Edition by Christian Keur, Aaron H
 
 ### Reading
 
-If given, reading assignments will be from the textbook.  The reading assignment will either help you prepare you for the next class, or review what was presented in the previous class.
+If given, the reading assignment will either help you prepare you for the next class, or review what was presented in the previous class.
 
 ### Syllabus Updates
 
