@@ -1,11 +1,16 @@
 
-#iOS Programming INFO1-CE9236
-NYU School of Continuing and Professional Studies
+![NYU](http://distancelearning.scps.nyu.edu/images/nyuscps-logo-standard-web.jpg) 
 
-    Course Title:		iPad and iPhone App Development
-    Course Number:		INFO1-CE9236003 
-    Instructor:			Keith Harris
-    Email:  			kh83@nyu.edu 
+----
+#iOS App Development 
+
+
+    Course:			INFO1-CE9236
+    Semester		Spring 2014
+    Section:		#3 Wednesday 6:30PM - 9:30PM
+	Date:			February 26 - March 12    
+	Location:		Washington Square
+    Instructor:		Keith Harris (kh83@nyu.edu)
 
 ### Course Description 
 This course will teach students how to create applications for the Apple iPad, iPhone, and iPod Touch using the iPhone operating system iOS. Learn the Objective-C language, write apps in the Macintosh Xcode development environment using Apple's Cocoa Touch API of classes, protocols, and objects. Build the visual interface of the app with touch-sensitive windows and views containing common UI elements such as buttons, sliders, and tables. Distinguish between taps and swipes, responding to them with animations. Explore the roles played by objects as delegates, targets, controllers, and data sources integrated into the Model-View-Controller design pattern.
@@ -109,8 +114,11 @@ Concerning software development, it is common practice among developers to share
     Chapters 6-7
 
 
+#### Spring Recess (Mar. 17 - Mar. 24)
 
-#### Lesson 4 (Mar. 19)
+    No class due to Spring recess
+
+#### Lesson 4 (Mar. 26)
 
     UITableView and UITableViewController
     
@@ -119,7 +127,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 5 (Mar. 26)
+#### Lesson 5 (Mar. 02)
 
     UINavigationController and camera
     
@@ -128,7 +136,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 6 (Apr. 02)
+#### Lesson 6 (Apr. 09)
 
     Autolayout
     
@@ -136,7 +144,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 7 (Apr. 09)
+#### Lesson 7 (Apr. 16)
 
     Autorotation, Popover Controllers, and Modal View Controllers
     Saving and loading application state
@@ -146,7 +154,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 8 (Apr. 16)
+#### Lesson 8 (Apr. 23)
 
     Subclassing UITableViewCell
     Dynamic Type
@@ -155,7 +163,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 9 (Apr.23)
+#### Lesson 9 (Apr. 30)
 
     Web Services, UIWebView, and UISplitViewController
     
@@ -164,7 +172,7 @@ Concerning software development, it is common practice among developers to share
 
 
 
-#### Lesson 10 (Apr. 23)
+#### Lesson 10 (May 07)
 
     Core Data
 
