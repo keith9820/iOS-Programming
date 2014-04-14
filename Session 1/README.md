@@ -695,9 +695,6 @@ If your application compiles, it can still get a run-time exception if you call 
         NSLog(@"%@", item);
 
 
-**homework:**  Create the RandomPossessions project + Silver Challenge and read chapter 2
-
-
 A closer look at Rand()
 
     for (int i=0; i<100; i++){
@@ -708,3 +705,10 @@ A closer look at Rand()
     for (int i=0; i<100; i++){
         result = [NSString stringWithFormat:@"%@%d\n", result, rand()];
     }
+
+
+**homework:**  
+
+*  Create the RandomPossessions project
+*  Complete the silver challenge
+*  Read chapter 2
