@@ -130,36 +130,35 @@ Controllers tend to be application specific -- least reusable of these objects
 The project template created a controller for us named QuizViewControlller.  In our app, the controller will be responsible for showing a new question when the first button is tapped, and showing the answer when the second button is tapped
 
 
-
 ### Declarations
 ````page 11````
 
 To manage the relationships and responsibilities, we need to give QuizViewController some properties and 2 methods.
 
- Questions
- Answers
- currentQuestionIndex
- questionField  (pointer to UILabel)
- answerField  (pointer to UILabel)
-
-@interface BNRQuizViewController ()
-
-@property (nonatomic, weak) IBOutlet UILabel *questionLabel;
-@property (nonatomic, weak) IBOutlet UILabel *answerLabel;
-
-@property (nonatomic) int currentQuestionIndex;
-@property (nonatomic, copy) NSArray *questions;
-@property (nonatomic, copy) NSArray *answers;
-
-@end
+    Questions
+    Answers
+    currentQuestionIndex
+    questionField  (pointer to UILabel)
+    answerField  (pointer to UILabel)
+    
+    @interface BNRQuizViewController ()
+    
+    @property (nonatomic, weak) IBOutlet UILabel *questionLabel;
+    @property (nonatomic, weak) IBOutlet UILabel *answerLabel;
+    
+    @property (nonatomic) int currentQuestionIndex;
+    @property (nonatomic, copy) NSArray *questions;
+    @property (nonatomic, copy) NSArray *answers;
+    
+    @end
 
 ### Declaring methods
 ````page 12````
 
 Each button needs to trigger a method to run when tapped.  In this case, we don’t need to forward-declare the function signature in the header file.
 
-- (IBAction)showQuestion:(id)sender;
-- (IBAction)showAnswer:(id)sender;
+    - (IBAction)showQuestion:(id)sender;
+    - (IBAction)showAnswer:(id)sender;
 
 IBAction and IBOutlet allow you to connect your controller to your view objects in the XIB file
 
@@ -242,7 +241,8 @@ Now that the initialization is taken care of, let’s implement the action metho
     }
     
 **BUILD AND RUN**
-### Chapter 2 - Objective-C
+
+### Chapter 2 - Objective-C
 ````page 29````
 
 iOS applications are written in Objective-C language using the libraries found in  the Cocoa for iOS framework
