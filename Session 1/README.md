@@ -317,11 +317,12 @@ Although alloc returns an object, it isn’t valid until it’s been initialized
 
 Since an object cannot be used until it’s been allocated and initialized, commonly written as:
 
-Party *party = [[Party alloc] init];  //nested message send
+    Party *party = [[Party alloc] init];  //nested message send
 -or-
-Party *party = [Party new]; 
-Sending messages
-page 31
+    Party *party = [Party new]; 
+    
+### Sending messages
+````page 31````
 
 After an object has been created you send it messages.
 
@@ -346,7 +347,6 @@ When a method accepts multiple arguments, each argument (after the first) is pai
 The label ends with a colon.
 
 
-
 In Objective-C the name of a method must be unique.
 The name of the method includes the labels, so the method name is addAttendee:withDish: including the colons.
 
@@ -369,7 +369,6 @@ If you send a message to a nil object, nothing happens.  No error
 
 
 ### Beginning RandomItems
-
 ````page 33````
 
 Before diving into the UIKit library and iOS applications, let’s look at Objective-C using a simple command line application.
@@ -528,6 +527,8 @@ Set p’s values and log again
 
 ##### Step 5:  Override description
 
+----
+
         - (NSString *)description{
                 NSString *desc = [[NSString alloc] 
 				    initWithFormat:@"%@ (%@): Worth $%d, recorded on %@",
@@ -569,6 +570,7 @@ BNRItem has 4 iVars but only 3 are writeable, therefor BNRItem’s designated in
         }
         return self;
     }
+    
 *Initializers always return id*
 
 id is a “pointer to any object”.  It would be wrong to return BNRItem because if you subclassed it, you couldn’t return the subclass, always BNRItem.  You cannot override a method to change its return type.
@@ -693,8 +695,7 @@ If your application compiles, it can still get a run-time exception if you call 
         NSLog(@"%@", item);
 
 
-**homework:**  Create the RandomPossessions project + Silver Challenge
-read chapter 2
+**homework:**  Create the RandomPossessions project + Silver Challenge and read chapter 2
 
 
 A closer look at Rand()
