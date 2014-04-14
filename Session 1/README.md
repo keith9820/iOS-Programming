@@ -378,6 +378,7 @@ If you send a message to a nil object, nothing happens.  No error
 
 
 ### Beginning RandomItems
+
 ````page 33````
 
 Before diving into the UIKit library and iOS applications, let’s look at Objective-C using a simple command line application.
