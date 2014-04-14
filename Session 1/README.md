@@ -318,7 +318,9 @@ Although alloc returns an object, it isn’t valid until it’s been initialized
 Since an object cannot be used until it’s been allocated and initialized, commonly written as:
 
     Party *party = [[Party alloc] init];  //nested message send
+    
 -or-
+
     Party *party = [Party new]; 
     
 ### Sending messages
