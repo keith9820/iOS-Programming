@@ -25,7 +25,7 @@ Cocoa framework consists of other frameworks (libraries)
 
 Open an empty workspace and explain areas of the Xcode IDE
 
-### Chapter 1 - A Simple iOS Application
+### Chapter 1 - A Simple iOS Application
 ````page 1````
 
 This chapter is about going through the motions
@@ -53,7 +53,7 @@ Pressing another button will show the next question
 
 Show Application
 
-### Creating an Xcode project
+### Creating an Xcode project
 
 Step 1:  Create a Single View Application named “Quiz”     	    Product Name: Quiz    Company Identifier: edu.nyu.scps  	    Class Prefix: BNR 			Device: iPhone
 page 2
@@ -61,8 +61,6 @@ page 2
 Even though we chose iPhone as the device, this app will still run on iPad though it won’t make best use of the screen space.  That’s okay for now.  
 
 In the beginning we will stick to the iPhone device template to learn the fundamentals of iOS development.  Later, we’ll look at some iPad-only options and how to make apps run on both.
-
-
 
 
 ### Building interfaces
@@ -164,13 +162,6 @@ Each button needs to trigger a method to run when tapped.  In this case, we don�
 - (IBAction)showAnswer:(id)sender;
 
 IBAction and IBOutlet allow you to connect your controller to your view objects in the XIB file
-
-
-
-
-
-
-
 
 
 ### Making connections
@@ -359,7 +350,7 @@ The label ends with a colon.
 In Objective-C the name of a method must be unique.
 The name of the method includes the labels, so the method name is addAttendee:withDish: including the colons.
 
-### Destroying objects
+### Destroying objects
 ````page 32````
 
 To destroy an object, set the variable that points to it to nil
@@ -478,7 +469,7 @@ A class consists of 2 files:
  An implementation file (.m)
 
 
-### Instance variables
+### Instance variables
 ````page 42````
 
 Instance variables (iVars) represent an object’s internal state.
@@ -534,6 +525,7 @@ Set p’s values and log again
         [p setValueInDollars:15];
 
 ----
+
 ##### Step 5:  Override description
 
         - (NSString *)description{
@@ -611,7 +603,7 @@ Step 5:  Override init to call designated initializer with default values
 Step 6:  Change code in main.m to instantiate p using the designated initializer 	     (page 52 - 53)
 
 ----
-### Class Methods
+### Class Methods
 ````page 53````
 
 Methods come in 2 flavors:
@@ -660,7 +652,7 @@ Step 7:  Create static method randomItem
     return newItem;
     }
 
-### Testing your subclass
+### Testing your subclass
 ````page 55````
 
 Create 10 new items.
