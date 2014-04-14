@@ -1,4 +1,4 @@
-# Chapter 1 - A Simple iOS Application
+#Chapter 1 - A Simple iOS Application
 
 ### Course Introduction
 
