@@ -299,7 +299,7 @@ To create an instance of a class, you declare a pointer of the class type and in
 
 A pointer variable stores the location of an object in memory, not the object itself:
 
-Party *partyInstance;
+    Party *partyInstance;
 
 Creating objects
 
@@ -311,7 +311,7 @@ The alloc method creates a chunk of memory for the objects and returns a pointer
 
 You can’t use an object created in this way until you send the init message.
 
-partyInstance = [partyInstance init];
+    partyInstance = [partyInstance init];
 
 Although alloc returns an object, it isn’t valid until it’s been initialized.
 
