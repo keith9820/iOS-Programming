@@ -12,6 +12,8 @@
     Location:	7 E. 12th Street
   Instructor:	Keith Harris (kh83@nyu.edu)
 
+[NYU Academic Calendar](http://www.nyu.edu/registrar/calendars/university-academic-calendar.html)
+
 ### Course Description 
 This course will teach students how to create applications for the Apple iPad, iPhone, and iPod Touch using the iPhone operating system iOS. Learn the Objective-C language, write apps in the Macintosh Xcode development environment using Apple's Cocoa Touch API of classes, protocols, and objects. Build the visual interface of the app with touch-sensitive windows and views containing common UI elements such as buttons, sliders, and tables. Distinguish between taps and swipes, responding to them with animations. Explore the roles played by objects as delegates, targets, controllers, and data sources integrated into the Model-View-Controller design pattern.
 
@@ -35,7 +37,7 @@ Students must use an Intel based Mac running Maverics or Lion with the latest up
 
 ### Textbook 
 
-![iOS Programming, 4th ed.](http://www.bignerdranch.com/images/iosprogramming-4th.png)
+![iOS Programming, 4th ed.](http://www.bignerdranch.com/img/books/book-covers/ios-cover.jpg)
 
 iOS Programming: The Big Nerd Ranch Guide 4th Edition by Christian Keur, Aaron Hillegass, & Joe Conway
 
